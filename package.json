@@ -1,0 +1,28 @@
+{
+  "name": "firestore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woyce-tech/node-firestore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woyce-tech/node-firestore/issues"
+  },
+  "homepage": "https://github.com/woyce-tech/node-firestore#readme",
+  "dependencies": {
+    "@google-cloud/firestore": "^6.4.2",
+    "firebase-admin": "^11.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
